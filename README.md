@@ -1,6 +1,6 @@
 # Hospital Management System
 
-Hospital management project craerted in python for the summer python course at uis.
+Hospital management project created in python for the summer python course at uis.
 
 ## Getting Started
 
